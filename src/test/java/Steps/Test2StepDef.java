@@ -24,7 +24,7 @@ public class Test2StepDef {
     public void print_the_details_of_project_home_page()  {
         // Write code here that turns the phrase above into concrete actions
         //throw new PendingException();
-        System.out.println("I am in THEN");
+       // System.out.println("I am in THEN");
     }
 
 
